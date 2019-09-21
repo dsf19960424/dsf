@@ -28,8 +28,8 @@ headers = {
 
 # 添加教师数据
 teacher_data = {
-    'username':'13700803107',
-    'realname':'nidaye009',
+    'username':'18271678257',
+    'realname':'nidaye0019',
     'password':'123456',
     'sex':'0',
     'roleid':'5',
